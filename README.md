@@ -8,7 +8,7 @@ CollabBoard is a simple collaborative whiteboard that can be accessed from multi
 
 ## Dependencies
 
-- Flask: a Python micor web framework.
+- Flask: a Python micro web framework.
 - Faker: A library for generating fake data.
 - twilio: A library for communicating with the Twilio API.
 - python-dotenv: A library for importing environment variables from .env file.
